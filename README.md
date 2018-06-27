@@ -1,7 +1,5 @@
 # odoo-pos
-This repository contains custom modules for odoo point of sale
-Odoo Point of Sale.
-
+This repository contains custom modules for odoo point of sale.
 
 <h1>Credits</h1>
 
