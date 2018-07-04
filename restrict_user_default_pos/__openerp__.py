@@ -34,5 +34,5 @@
     ],
     'price':10,
     'currency':"EUR",
-    'images':['static/description/cover.png'],
+    'images':['images/cover.png'],
 }
